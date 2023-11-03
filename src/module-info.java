@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Analista
+ *
+ */
+module Generic {
+}
